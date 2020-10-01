@@ -1,6 +1,6 @@
 import requests, json, random, sys, os, time, os.path
 """
-Gopay Accounts Manager
+Gopay Account Manager
 Author: @corrykalam
 Date: 06/09/2019
 """
@@ -112,7 +112,7 @@ banner = """
 ██║   ██║████╔╝██║██╔═══╝ ██╔══██║  ╚██╔╝  
 ╚██████╔╝╚██████╔╝██║     ██║  ██║   ██║   
  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝   
-            Accounts Manager                                   
+            Account Manager                                   
            @author: corrykalam
 """
 menu = """
@@ -122,7 +122,7 @@ menu = """
 [4] Send other amount
 [5] Send other amount (Mass Sender)
 [6] Change pin account (Only change json)
-[7] Add accounts
+[7] Add accounts 
 [8] Delete accounts
 [0] Exit
 """
